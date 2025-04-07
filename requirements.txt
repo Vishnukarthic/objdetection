@@ -1,19 +1,4 @@
-# Streamlit for the web interface
-streamlit==1.32.2
-
-# OpenCV (headless version for cloud environments)
-opencv-python-headless==4.8.1.78
-
-# PyTorch and TorchVision (for YOLOv5)
-torch==2.1.0
-torchvision==0.16.0
-
-# General dependencies
-numpy==1.26.4
-requests==2.31.0
-
-# Twilio for SMS alerting
-twilio==8.10.0
-
-# Ultralytics YOLOv5 (via GitHub)
-git+https://github.com/ultralytics/yolov5.git
+streamlit
+opencv-python
+torch
+numpy

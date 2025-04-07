@@ -1,7 +1,8 @@
 streamlit==1.32.2
-opencv-python
+opencv-python-headless==4.8.1.78
 numpy
 torch
 torchvision
 twilio
 requests
+git+https://github.com/ultralytics/yolov5.git
